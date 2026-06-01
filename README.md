@@ -7,6 +7,13 @@ AI-powered stock market prediction using LSTM Neural Network, FastAPI backend wi
 ![React](https://img.shields.io/badge/React-18-61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-LSTM-red)
 
+🔗 **Live Demo:** [market-predictor-silk.vercel.app](https://market-predictor-silk.vercel.app)
+
+## 📸 Screenshot
+
+![Dashboard](https://raw.githubusercontent.com/snehal-thombare08/-market-predictor/main/Screenshot%202026-06-01%20233026.png)
+
+
 ## 🚀 Feature
 - 🧠 LSTM Neural Network for stock price prediction
 - 📊 Real-time price charts with Recharts
