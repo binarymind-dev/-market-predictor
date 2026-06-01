@@ -7,7 +7,7 @@ AI-powered stock market prediction using LSTM Neural Network, FastAPI backend wi
 ![React](https://img.shields.io/badge/React-18-61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-LSTM-red)
 
-## 🚀 Features
+## 🚀 Feature
 - 🧠 LSTM Neural Network for stock price prediction
 - 📊 Real-time price charts with Recharts
 - ⚡ FastAPI backend with WebSocket support
