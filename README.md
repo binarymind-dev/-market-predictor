@@ -51,6 +51,5 @@ npm start
 3. Click **Analyze**
 4. View prediction + BUY/SELL signal + 30-day chart
 
-## 👩‍💻 Author
-
-**Snehal Thombare** — [GitHub](https://github.com/snehal-thombare08)
+👩‍💻 Author
+Binary Mind — [GitHub](https://github.com/binarymind-dev)
